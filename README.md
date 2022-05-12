@@ -14,7 +14,7 @@
 
 > _详细的**脚本介绍、使用说明、截图演示**等信息，请点击 **\[安装\]** 前往 GreasyFork 查看~_  
 
-|  | 脚本名称 | 脚本功能 | 安装 \| 备用 |
+|  | 脚本名称 | 脚本功能 | 安装 |
 | :----: | :---- | :---- | :----: |
 | [<img src="https://web-1306422440.cos-website.ap-nanjing.myqcloud.com/userscript/ac-baidu.jpg" height="16px" />](#1) | **重定向优化** | 去掉百度、搜狗、谷歌搜索结果的重定向，回归为网站的原始网址 | **[安装](https://greasyfork.org/zh-CN/scripts/14178)** |
 | [<img src="https://web-1306422440.cos-website.ap-nanjing.myqcloud.com/userscript/timerhooker.png" height="16px" />](#1) | **计时器掌控者** | 控制网页计时器速度 | **[安装](https://greasyfork.org/zh-CN/scripts/372673)** |
@@ -26,6 +26,7 @@
 | [<img src="https://web-1306422440.cos-website.ap-nanjing.myqcloud.com/userscript/网页限制解除.png" height="16px" />](#1) | **网页限制解除** | 通杀大部分网站,可以解除禁止复制、剪切、选择文本、右键菜单的限制 | **[安装](https://greasyfork.org/zh-CN/scripts/28497)** |
 | [<img src="https://web-1306422440.cos-website.ap-nanjing.myqcloud.com/userscript/学习通.png" height="16px" />](#1) | **学习通网课助手** | 超星尔雅MOOC自动挂机，无需配置安装即可使用 | **[安装](https://greasyfork.org/zh-CN/scripts/426360)** |
 | [<img src="https://web-1306422440.cos-website.ap-nanjing.myqcloud.com/userscript/自动无缝翻页.png" height="16px" />](#1) | **自动无缝翻页** | 无缝加载 下一页内容 至网页底部（类似瀑布流） | **[安装](https://greasyfork.org/zh-CN/scripts/419215)** |
+| [<img src="https://web-1306422440.cos-website.ap-nanjing.myqcloud.com/userscript/bilibili.png" height="16px" />](#1) | **Bilibili Evolved** | 强大的哔哩哔哩增强脚本 | **[安装](https://raw.githubusercontent.com/the1812/Bilibili-Evolved/master/dist/bilibili-evolved.user.js)** |
 
 ****
 
@@ -33,7 +34,7 @@
 
 要使用任何脚本，首先需要浏览器安装 **Tampermonkey  脚本管理器扩展（[Chrome](https://pan.lanzouq.com/b073l8d1e)** / **[Firefox](https://addons.mozilla.org/firefox/addon/tampermonkey/)** / **[Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd?hl=zh-CN)）。**  
 
-- 点击表格 **\[安装\]** 进入 GreasyFork 网页，点击 **\[安装脚本\]** 后弹出扩展提示，再点击 **\[安装\]** 即可。  
+- 点击表格 **\[安装\]** 进入网页，点击 **\[安装脚本\]** 后弹出扩展提示，再点击 **\[安装\]** 即可。  
 
 > _其他基于 **Chromium** 内核的浏览器（如国内套皮浏览器）一般都可以使用 Chrome 扩展。_  
 > _请确保使用 **Tampermonkey 正式版** 扩展，其他的用户脚本管理器可能导致**无法正常使用**脚本。_  
