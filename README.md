@@ -27,6 +27,7 @@
 | [<img src="https://web-1306422440.cos-website.ap-nanjing.myqcloud.com/userscript/学习通.png" height="16px" />](#1) | **学习通网课助手** | 超星尔雅MOOC自动挂机，无需配置安装即可使用 | **[安装](https://greasyfork.org/zh-CN/scripts/426360)** |
 | [<img src="https://web-1306422440.cos-website.ap-nanjing.myqcloud.com/userscript/自动无缝翻页.png" height="16px" />](#1) | **自动无缝翻页** | 无缝加载 下一页内容 至网页底部（类似瀑布流） | **[安装](https://greasyfork.org/zh-CN/scripts/419215)** |
 | [<img src="https://web-1306422440.cos-website.ap-nanjing.myqcloud.com/userscript/bilibili.png" height="16px" />](#1) | **Bilibili Evolved** | 强大的哔哩哔哩增强脚本 | **[安装](https://raw.githubusercontent.com/the1812/Bilibili-Evolved/master/dist/bilibili-evolved.user.js)** |
+| [<img src="https://web-1306422440.cos-website.ap-nanjing.myqcloud.com/userscript/github.png" height="16px" />](#1) | **Github 增强 ** | 高速下载 Git Clone/SSH、Release、Raw、Code(ZIP) 等文件、项目列表单文件快捷下载 (☁) | **[安装](https://greasyfork.org/zh-CN/scripts/412245)** |
 
 ****
 
